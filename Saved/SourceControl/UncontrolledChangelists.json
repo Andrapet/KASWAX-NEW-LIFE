@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/New folder/kaswax new life/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/sword/Sword.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/sword/Sword_Skeleton.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/New folder/kaswax new life/MyProject2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/Characters/Mannequins/Animations/Death.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/Characters/Mannequins/Animations/Death_Montage.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/sword/Default_OBJ.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/Characters/Mannequins/Animations/HitReact.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/Characters/Mannequins/Animations/HitReact_Montage.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/sword/knightSword.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/sword/knightSword_Mat.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/Characters/Mannequins/Animations/SwordSlash.uasset",
+				"D:/New folder/kaswax new life/MyProject2/Content/Characters/Mannequins/Animations/SwordSlash_Montage.uasset"
+			]
+		}
+	]
+}
